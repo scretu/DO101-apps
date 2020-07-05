@@ -64,3 +64,4 @@ nb-configuration.xml
 ########
 node_modules
 .env
+**/package-lock.json
